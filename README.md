@@ -1,6 +1,6 @@
 # [Vue Paper Dashboard](https://cristijora.github.io/vue-paper-dashboard/)
 
-> Trigger ITEA Admin dashboard based on paper dashboard UI template + vue-router (For build)
+> Lets trigger Jenkins JOB
 
 This project is a vue version of [Paper-dashboard](https://www.creative-tim.com/product/paper-dashboard)
 designed for vue js.The dashboard includes vue-router
