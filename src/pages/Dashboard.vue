@@ -82,8 +82,8 @@ export default {
     ChartCard
   },
   mounted: function () {
-           axios.get('http://dummy-backend:8000/get_modules_count')
-              .then(response => (this.statsCards[0].value = response.data.count))
+           axios.get('http://3.10.235.179:8000/get_whoami')
+              .then(response => (this.statsCards[0].value = response.data.whoami))
            },
   /**
    * Chart data used to render stats, charts. Should be replaced with server data
@@ -94,8 +94,8 @@ export default {
         {
           type: "warning",
           icon: "ti-medall",
-          title: "ITEA Modules",
-          value: "105GB",
+          title: "Award goes to",
+          value: "No one :(",
           footerText: "Updated now",
           footerIcon: "ti-reload"
         },
