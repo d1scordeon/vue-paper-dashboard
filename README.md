@@ -1,6 +1,6 @@
 # [Vue Paper Dashboard](https://cristijora.github.io/vue-paper-dashboard/)
 
-> Lets trigger Jenkins JOB
+> Lets trigger Jenkins JOB once again
 
 This project is a vue version of [Paper-dashboard](https://www.creative-tim.com/product/paper-dashboard)
 designed for vue js.The dashboard includes vue-router
